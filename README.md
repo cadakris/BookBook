@@ -33,15 +33,15 @@ TO-DO LIST:
 - _DONE_ only login OR signup is showing
 - _DONE_ user can add books to shelf
 - _DONE_ only show Home page if user logged in
+- _DONE_ 'passwords don't match' better error message
+- _DONE_ add a Profile & link to NavBar
+- _DONE_ add name to sign up for & welcome message
+- _DONE_ format form inputs & labels
 
 LITTLE DETAILS TO FIX....
 
 - clear book search results in between page loads?
 - home page: signup/login. clicking signup pops up form - modal maybe ?
-- _DONE_ 'passwords don't match' better error message
-- _DONE_ add a Profile & link to NavBar
-- _DONE_ add name to sign up for & welcome message
-- _DONE_ format form inputs & labels
 
 STRETCH GOALS:
 
